@@ -1,5 +1,5 @@
 
-#GESTION STOCK
+# GESTION STOCK
 
 Aplicación web desarrollada para gestionar el inventario y ventas de productos para un negocio de reventa, emprendimiento chico o propio. Permite controlar entradas y salidas de stock, gestionar clientes, proveedores y visualizar reportes de ventas.
 
